@@ -1,8 +1,5 @@
 import React from "react";
 import { render } from "react-dom";
+import App from "./components/home/App";
 
-function Hi() {
-  return <p>top</p>;
-}
-
-render(<Hi />, document.getElementById("app"));
+render(<App />, document.getElementById("app"));
