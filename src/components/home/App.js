@@ -1,8 +1,6 @@
 import React from "react";
-import { render } from "react-dom";
+import "./App.module.css";
 
-const App = () => {
-  <p>this is my app</p>;
-};
+const App = () => <p>Tá indo</p>;
 
 export default App;
