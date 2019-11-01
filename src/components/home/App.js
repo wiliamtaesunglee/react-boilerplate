@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.module.css";
 
-const App = () => <p>Tá indo</p>;
+const App = () => <p>React Boilerplate Hello!</p>;
 
 export default App;
