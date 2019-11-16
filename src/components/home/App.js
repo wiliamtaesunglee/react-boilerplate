@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.module.css";
+import Counter from '../counter/Counter'
 
-const App = () => <p>React Boilerplate Hello!</p>;
+const App = () => <Counter/>;
 
 export default App;
